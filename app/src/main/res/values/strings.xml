@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase CRUD</string>
+    <string-array name="labels_array">
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+</resources>
